@@ -1,0 +1,16 @@
+#Ignore temporary and user-specific Visual Studio Files
+.suo
+.vs/
+Debug/
+Release/
+
+#Ignore compiled files and other files generated during compilation.
+*.dmb
+*.rsc
+*.lk
+*.int
+*.backup
+*.int
+
+#Ignore the built DLLs
+*.dll
